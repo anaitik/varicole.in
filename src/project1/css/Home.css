@@ -1,0 +1,45 @@
+.home {
+    background-image: url('../images/background.jpg');
+    /* background-size: cover; */
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 10%;
+
+    }
+/*     
+    .home:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.6);
+    } */
+    
+    .home-content {
+    text-align: center;
+    color: white;
+    z-index: 1;
+    }
+    
+    .home h1 {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    }
+    
+    .home p {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    }
+    
+    /* Example image */
+  
+    
+    
+    

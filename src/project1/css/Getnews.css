@@ -1,0 +1,30 @@
+.Getnews_box {
+  max-height: 600px;
+  overflow: auto;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  background: #000000a1;
+  padding-bottom: 50px;
+  color: antiquewhite;
+  border-radius: 3px;
+
+}
+
+.Getnews_button {
+  text-decoration: none;
+}
+
+.Getnews_box h1 {
+  text-shadow: #000 1px 0 10px !important;
+  
+}
+
+.Getnews_img {
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.Get_button {
+  width: 100px;
+  height: 40px;
+  margin-top: 10px;
+}
